@@ -1,5 +1,5 @@
 # Pizza-Order-Program
-Order system askes pizza size, extra pepperoni, extra cheese then calculates total based on user's decisions.
+Order system asks pizza size, extra pepperoni, extra cheese then calculates total based on user's decisions.
 
 ## Pizza Order Program ##
 
