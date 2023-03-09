@@ -3,7 +3,7 @@ Order system askes pizza size, extra pepperoni, extra cheese then calculates tot
 
 ## Pizza Order Program ##
 
-![Pizza Order Program](<https://github.com/Ongoing-Knowledge-Scraping/Leap-Year-Checker/blob/main/Pizza-Order-Program.gif> "Running the code")
+![Pizza Order Program](<https://github.com/Ongoing-Knowledge-Scraping/Pizza-Order-Program/blob/main/Pizza-Order-Program.gif> "Running the code")
 
 ## View on Replit ##
 https://replit.com/@kpatzer/Pizza-Order-Program
