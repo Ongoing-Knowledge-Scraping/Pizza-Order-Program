@@ -1,6 +1,10 @@
 # Pizza-Order-Program
 Order system askes pizza size, extra pepperoni, extra cheese then calculates total based on user's decisions.
 
+## Pizza Order Program ##
+
+![Pizza Order Program](<https://github.com/Ongoing-Knowledge-Scraping/Leap-Year-Checker/blob/main/Pizza-Order-Program.gif> "Running the code")
+
 ## View on Replit ##
 https://replit.com/@kpatzer/Pizza-Order-Program
 
